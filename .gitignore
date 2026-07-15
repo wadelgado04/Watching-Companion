@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+chroma*/
+subs/
+*.srt
+*.vtt
+desktop.ini
+
+.venv/
+.vscode/

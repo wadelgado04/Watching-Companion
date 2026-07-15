@@ -1,4 +1,5 @@
 # Spoiler-Safe Watching Companion
+Demo Link: https://watching-companion-jnjuzg2ghy8hmbvhgxeepn.streamlit.app/
 
 A watch-party assistant that catches you up on a show or movie, explains its characters and lore, relives its scenes, and discusses its plot without ever revealing a single second past where you are.
 
